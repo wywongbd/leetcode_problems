@@ -9,3 +9,4 @@
 | 23. Merge k Sorted Lists | Linked List, Divide and Conquer, Heap | Hard | https://leetcode.com/problems/merge-k-sorted-lists/ | [link](/solutions/23.md) |
 | 62. Unique Paths | Dynamic Programming, Array | Medium | https://leetcode.com/problems/unique-paths/ | [link](/solutions/62.md) |
 | 63. Unique Paths II | Dynamic Programming, Array | Medium | https://leetcode.com/problems/unique-paths-ii/ | [link](/solutions/63.md) |
+| 120. Triangle | Dynamic Programming, Array | Medium | https://leetcode.com/problems/triangle/ | [link](/solutions/120.md) |
