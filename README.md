@@ -10,3 +10,7 @@
 | 62. Unique Paths | Dynamic Programming, Array | Medium | https://leetcode.com/problems/unique-paths/ | [link](/solutions/62.md) |
 | 63. Unique Paths II | Dynamic Programming, Array | Medium | https://leetcode.com/problems/unique-paths-ii/ | [link](/solutions/63.md) |
 | 120. Triangle | Dynamic Programming, Array | Medium | https://leetcode.com/problems/triangle/ | [link](/solutions/120.md) |
+| 368. Largest Divisible Subset | Dynamic Programming, Math | Medium | https://leetcode.com/problems/largest-divisible-subset/ | [link](/solutions/368.md) |
+| 304. Range Sum Query 2D - Immutable | Dynamic Programming | Medium | https://leetcode.com/problems/range-sum-query-2d-immutable/ | [link](/solutions/304.md) |
+| 105. Construct Binary Tree from Preorder and Inorder Traversal | Array, Tree, Depth First Search | Medium | https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/ | [link](/solutions/105.md) |
+| 106. Construct Binary Tree from Inorder and Postorder Traversal | Array, Tree, Depth First Search | Medium | https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/ | [link](/solutions/106.md) |
