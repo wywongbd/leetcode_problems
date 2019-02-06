@@ -16,3 +16,4 @@
 | 106. Construct Binary Tree from Inorder and Postorder Traversal | Array, Tree, Depth First Search | Medium | https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/ | [link](/solutions/106.md) |
 | 221. Maximal Square | Dynamic Programming | Medium | https://leetcode.com/problems/maximal-square/ | [link](/solutions/221.md) |
 | 113. Path Sum II | Tree, Depth First Search | Medium | https://leetcode.com/problems/path-sum-ii/ | [link](/solutions/113.md) |
+| 114. Flatten Binary Tree to Linked List | Tree, Depth First Search | Medium | https://leetcode.com/problems/flatten-binary-tree-to-linked-list/ | [link](/solutions/114.md) |
