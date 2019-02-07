@@ -18,3 +18,4 @@
 | 113. Path Sum II | Tree, Depth First Search | Medium | https://leetcode.com/problems/path-sum-ii/ | [link](/solutions/113.md) |
 | 114. Flatten Binary Tree to Linked List | Tree, Depth First Search | Medium | https://leetcode.com/problems/flatten-binary-tree-to-linked-list/ | [link](/solutions/114.md) |
 | 200. Number of Islands | Union Find, Breath First Search, Depth First Search | Medium | https://leetcode.com/problems/number-of-islands/ | [link](/solutions/200.md) |
+| 464. Can I Win | Dynamic Programming, Minimax | Medium | https://leetcode.com/problems/can-i-win/ | [link](/solutions/464.md) |
