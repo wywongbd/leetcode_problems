@@ -19,3 +19,4 @@
 | 114. Flatten Binary Tree to Linked List | Tree, Depth First Search | Medium | https://leetcode.com/problems/flatten-binary-tree-to-linked-list/ | [link](/solutions/114.md) |
 | 200. Number of Islands | Union Find, Breath First Search, Depth First Search | Medium | https://leetcode.com/problems/number-of-islands/ | [link](/solutions/200.md) |
 | 464. Can I Win | Dynamic Programming, Minimax | Medium | https://leetcode.com/problems/can-i-win/ | [link](/solutions/464.md) |
+| 207. Course Schedule | Depth First Search, Topological Sort, Graph, Breadth First Search | Medium | https://leetcode.com/problems/course-schedule/ | [link](/solutions/207.md) |
