@@ -22,3 +22,4 @@
 | 207. Course Schedule | Depth First Search, Topological Sort, Graph, Breadth First Search | Medium | https://leetcode.com/problems/course-schedule/ | [link](/solutions/207.md) |
 | 146. LRU Cache | Design | Hard | https://leetcode.com/problems/lru-cache/ | [link](/solutions/146.md) |
 | 208. Implement Trie (Prefix Tree) | Design, Trie | Medium | https://leetcode.com/problems/implement-trie-prefix-tree/ | [link](/solutions/208.md) |
+| 295. Find Median from Data Stream | Design, Heap | Hard | https://leetcode.com/problems/find-median-from-data-stream/ | [link](/solutions/295.md) |
