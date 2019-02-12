@@ -23,3 +23,4 @@
 | 146. LRU Cache | Design | Hard | https://leetcode.com/problems/lru-cache/ | [link](/solutions/146.md) |
 | 208. Implement Trie (Prefix Tree) | Design, Trie | Medium | https://leetcode.com/problems/implement-trie-prefix-tree/ | [link](/solutions/208.md) |
 | 295. Find Median from Data Stream | Design, Heap | Hard | https://leetcode.com/problems/find-median-from-data-stream/ | [link](/solutions/295.md) |
+| 432. All O(1) Data Structure | Design | Hard | https://leetcode.com/problems/all-oone-data-structure/ | [link](/solutions/432.md) |
