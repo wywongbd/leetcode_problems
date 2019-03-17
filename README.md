@@ -25,3 +25,4 @@
 | 295. Find Median from Data Stream | Design, Heap | Hard | https://leetcode.com/problems/find-median-from-data-stream/ | [link](/solutions/295.md) |
 | 432. All O(1) Data Structure | Design | Hard | https://leetcode.com/problems/all-oone-data-structure/ | [link](/solutions/432.md) |
 | 622. Design Circular Queue | Design, Queue | Medium | https://leetcode.com/problems/design-circular-queue/ | [link](/solutions/622.md) |
+| 641. Design Circular Deque | Design, Queue | Medium | https://leetcode.com/problems/design-circular-deque/ | [link](/solutions/641.md) |
