@@ -28,6 +28,8 @@
 | 641. Design Circular Deque | Design, Queue | Medium | https://leetcode.com/problems/design-circular-deque/ | [link](/solutions/641.md) |
 | 299. Bulls and Cows | Hash Table | Medium | https://leetcode.com/problems/bulls-and-cows/ | [link](/solutions/299.md) |
 | 29. Divide Two Integers | Math, Binary Search | Medium | https://leetcode.com/problems/divide-two-integers/ | [link](/solutions/29.md) |
+| 43. Multiply Strings | Math, String | Medium | https://leetcode.com/problems/multiply-strings/ | [link](/solutions/43.md) |
+
 
 
 
