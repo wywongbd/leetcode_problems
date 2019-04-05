@@ -27,4 +27,7 @@
 | 622. Design Circular Queue | Design, Queue | Medium | https://leetcode.com/problems/design-circular-queue/ | [link](/solutions/622.md) |
 | 641. Design Circular Deque | Design, Queue | Medium | https://leetcode.com/problems/design-circular-deque/ | [link](/solutions/641.md) |
 | 299. Bulls and Cows | Hash Table | Medium | https://leetcode.com/problems/bulls-and-cows/ | [link](/solutions/299.md) |
+| 29. Divide Two Integers | Math, Binary Search | Medium | https://leetcode.com/problems/divide-two-integers/ | [link](/solutions/29.md) |
+
+
 
