@@ -29,6 +29,8 @@
 | 299. Bulls and Cows | Hash Table | Medium | https://leetcode.com/problems/bulls-and-cows/ | [link](/solutions/299.md) |
 | 29. Divide Two Integers | Math, Binary Search | Medium | https://leetcode.com/problems/divide-two-integers/ | [link](/solutions/29.md) |
 | 43. Multiply Strings | Math, String | Medium | https://leetcode.com/problems/multiply-strings/ | [link](/solutions/43.md) |
+| 74. Search a 2D Matrix | Array, Binary Search | Medium | https://leetcode.com/problems/search-a-2d-matrix/ | [link](/solutions/74.md) |
+
 
 
 
