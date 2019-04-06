@@ -34,6 +34,8 @@
 | 779. K-th Symbol in Grammar | Recursion | Medium | https://leetcode.com/problems/k-th-symbol-in-grammar/ | [link](/solutions/779.md) |
 | 934. Shortest Bridge | BFS | Medium | https://leetcode.com/problems/shortest-bridge/ | [link](/solutions/934.md) |
 | 652. Find Duplicate Subtrees | Binary Search Trees, Serialization | Medium | https://leetcode.com/problems/find-duplicate-subtrees/ | [link](/solutions/652.md) |
+| 307. Range Sum Query - Mutable | Binary Indexed Trees, Segment Trees | Medium | https://leetcode.com/problems/range-sum-query-mutable/ | [link](/solutions/307.md) |
+
 
 
 
