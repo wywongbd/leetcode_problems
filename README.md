@@ -33,7 +33,7 @@
 | 240. Search a 2D Matrix II | Array, Binary Search | Medium | https://leetcode.com/problems/search-a-2d-matrix-ii/ | [link](/solutions/240.md) |
 | 779. K-th Symbol in Grammar | Recursion | Medium | https://leetcode.com/problems/k-th-symbol-in-grammar/ | [link](/solutions/779.md) |
 | 934. Shortest Bridge | BFS | Medium | https://leetcode.com/problems/shortest-bridge/ | [link](/solutions/934.md) |
-| 652. Find Duplicate Subtrees | Binary Search Trees, Serialization | Medium | https://leetcode.com/problems/find-duplicate-subtrees/ | [link](/solutions/625.md) |
+| 652. Find Duplicate Subtrees | Binary Search Trees, Serialization | Medium | https://leetcode.com/problems/find-duplicate-subtrees/ | [link](/solutions/652.md) |
 
 
 
