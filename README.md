@@ -31,6 +31,8 @@
 | 43. Multiply Strings | Math, String | Medium | https://leetcode.com/problems/multiply-strings/ | [link](/solutions/43.md) |
 | 74. Search a 2D Matrix | Array, Binary Search | Medium | https://leetcode.com/problems/search-a-2d-matrix/ | [link](/solutions/74.md) |
 | 240. Search a 2D Matrix II | Array, Binary Search | Medium | https://leetcode.com/problems/search-a-2d-matrix-ii/ | [link](/solutions/240.md) |
+| 779. K-th Symbol in Grammar | Recursion | Medium | https://leetcode.com/problems/k-th-symbol-in-grammar/ | [link](/solutions/779.md) |
+
 
 
 
