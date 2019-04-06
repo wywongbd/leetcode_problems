@@ -30,6 +30,8 @@
 | 29. Divide Two Integers | Math, Binary Search | Medium | https://leetcode.com/problems/divide-two-integers/ | [link](/solutions/29.md) |
 | 43. Multiply Strings | Math, String | Medium | https://leetcode.com/problems/multiply-strings/ | [link](/solutions/43.md) |
 | 74. Search a 2D Matrix | Array, Binary Search | Medium | https://leetcode.com/problems/search-a-2d-matrix/ | [link](/solutions/74.md) |
+| 240. Search a 2D Matrix II | Array, Binary Search | Medium | https://leetcode.com/problems/search-a-2d-matrix-ii/ | [link](/solutions/240.md) |
+
 
 
 
