@@ -35,6 +35,7 @@
 | 934. Shortest Bridge | BFS | Medium | https://leetcode.com/problems/shortest-bridge/ | [link](/solutions/934.md) |
 | 652. Find Duplicate Subtrees | Binary Search Trees, Serialization | Medium | https://leetcode.com/problems/find-duplicate-subtrees/ | [link](/solutions/652.md) |
 | 307. Range Sum Query - Mutable | Binary Indexed Trees, Segment Trees | Medium | https://leetcode.com/problems/range-sum-query-mutable/ | [link](/solutions/307.md) |
+| 673. Number of Longest Increasing Subsequence | Dynamic Programming | Medium | https://leetcode.com/problems/number-of-longest-increasing-subsequence/ | [link](/solutions/673.md) |
 
 
 
