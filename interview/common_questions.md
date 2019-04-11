@@ -130,3 +130,48 @@ table.add(5, "five")
 table.add(303, "three-hundred-and-three")
 table.add(603, "six-hundred-and-three")
 ```
+
+#### Reverse a linked list
+```python
+class Node(object):
+    def __init__(self, val):
+        self.val = val
+        self.next = None
+    
+class LL(object):
+    def __init__(self):
+        self.head = None
+        self.tail = None
+        
+    def append(self, value):
+        if self.head is None:
+            self.head = Node(value)
+            self.tail = self.head
+        else:
+            self.tail.next = Node(value)
+            self.tail = self.tail.next
+    
+    def reverse(self):
+        if self.head:
+            # update tail variable
+            self.tail = self.head
+            self._reverse(None, self.head)
+    
+    def _reverse(self, pre, node):
+        if node is None:
+            # reached end of linked list
+            self.head = pre
+            return
+        else:
+            next_node = node.next
+            node.next = pre
+            self._reverse(node, next_node)
+            
+    def show(self):
+        ls = []
+        node = self.head
+        while node:
+            ls.append(node.val)
+            node = node.next
+        print(ls)
+```
