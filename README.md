@@ -37,6 +37,8 @@
 | 307. Range Sum Query - Mutable | Binary Indexed Trees, Segment Trees | Medium | https://leetcode.com/problems/range-sum-query-mutable/ | [link](/solutions/307.md) |
 | 673. Number of Longest Increasing Subsequence | Dynamic Programming | Medium | https://leetcode.com/problems/number-of-longest-increasing-subsequence/ | [link](/solutions/673.md) |
 | 785. Is Graph Bipartite? | BFS, DFS | Medium | https://leetcode.com/problems/is-graph-bipartite/ | [link](/solutions/785.md) |
+| 990. Satisfiability of Equality Equations | Union Find | Medium | https://leetcode.com/problems/satisfiability-of-equality-equations/ | [link](/solutions/990.md) |
+
 
 
 

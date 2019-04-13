@@ -175,3 +175,52 @@ class LL(object):
             node = node.next
         print(ls)
 ```
+
+#### Union Find data structure
+With **union by rank**, we can ensure O(log N) for **find()**.
+```python
+class DisjointSet(object):
+    def __init__(self):
+        self.parent = {}
+        self.rank = {}
+    
+    def find(self, item):
+        if item not in self.parent:
+            return None
+        
+        else:
+            while item != self.parent[item]:
+                self.parent[item] = self.parent[self.parent[item]]
+                item = self.parent[item]
+            return item
+        
+    def union(self, item1, item2):
+        if (item1 not in self.parent) or (item2 not in self.parent):
+            return
+        
+        root1, root2 = self.find(item1), self.find(item2)
+        
+        if root1 == root2:
+            return
+        
+        if self.rank[root1] < self.rank[root2]:
+            self.parent[root1] = root2
+            
+        elif self.rank[root1] > self.rank[root1]:
+            self.parent[root2] = root1
+            
+        else:
+            self.parent[root1] = root2
+            self.rank[root2] += 1
+    
+    def makeset(self, item):
+        if item not in self.parent:
+            self.parent[item] = item
+            self.rank[item] = 1
+    
+    def connected(self, item1, item2):
+        if (item1 in self.parent) and (item2 in self.parent):
+            return self.find(item1) == self.find(item2)
+        else:
+            return False
+```
