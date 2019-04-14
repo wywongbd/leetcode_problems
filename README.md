@@ -39,6 +39,7 @@
 | 785. Is Graph Bipartite? | BFS, DFS | Medium | https://leetcode.com/problems/is-graph-bipartite/ | [link](/solutions/785.md) |
 | 990. Satisfiability of Equality Equations | Union Find | Medium | https://leetcode.com/problems/satisfiability-of-equality-equations/ | [link](/solutions/990.md) |
 | 103. Binary Tree Zigzag Level Order Traversal | Stack, Tree, BFS | Medium | https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/ | [link](/solutions/103.md) |
+| 124. Binary Tree Maximum Path Sum | Tree, DFS | Medium | https://leetcode.com/problems/binary-tree-maximum-path-sum/ | [link](/solutions/124.md) |
 
 
 
