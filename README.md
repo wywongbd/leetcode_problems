@@ -41,6 +41,8 @@
 | 103. Binary Tree Zigzag Level Order Traversal | Stack, Tree, BFS | Medium | https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/ | [link](/solutions/103.md) |
 | 124. Binary Tree Maximum Path Sum | Tree, DFS | Medium | https://leetcode.com/problems/binary-tree-maximum-path-sum/ | [link](/solutions/124.md) |
 | 199. Binary Tree Right Side View | Tree, DFS, BFS | Medium | https://leetcode.com/problems/binary-tree-right-side-view/ | [link](/solutions/199.md) |
+| 92. Reverse Linked List II | Linked List | Medium | https://leetcode.com/problems/reverse-linked-list-ii/ | [link](/solutions/92.md) |
+
 
 
 
