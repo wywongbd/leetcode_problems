@@ -45,7 +45,7 @@
 | 199. Binary Tree Right Side View | Tree, DFS, BFS | Medium | https://leetcode.com/problems/binary-tree-right-side-view/ | [link](/solutions/199.md) |
 | 92. Reverse Linked List II | Linked List | Medium | https://leetcode.com/problems/reverse-linked-list-ii/ | [link](/solutions/92.md) |
 | 981. Time Based Key-Value Store | Hash Table, Binary Search | Medium | https://leetcode.com/problems/time-based-key-value-store/ | [link](/solutions/981.md) |
-
+| 329. Longest Increasing Path in a Matrix | DFS, Topological Sort, Memoization | Hard | https://leetcode.com/problems/longest-increasing-path-in-a-matrix/ | [link](solutions/329.md) |
 
 
 
