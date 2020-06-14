@@ -47,7 +47,7 @@
 | 981. Time Based Key-Value Store | Hash Table, Binary Search | Medium | https://leetcode.com/problems/time-based-key-value-store/ | [link](/solutions/981.md) |
 | 329. Longest Increasing Path in a Matrix | DFS, Topological Sort, Memoization | Hard | https://leetcode.com/problems/longest-increasing-path-in-a-matrix/ | [link](solutions/329.md) |
 | 1163. Last Substring in Lexicographical Order | String, Suffix Array | Hard | https://leetcode.com/problems/last-substring-in-lexicographical-order/ | [link](solutions/1163.md) |
-
+| 376. Wiggle Subsequence | Dynamic Programming, Greedy | Medium | https://leetcode.com/problems/wiggle-subsequence/ | [link](solutions/376.md) | 
 
 
 
