@@ -51,7 +51,7 @@
 | 315. Remove Duplicate Letters | Monotonic stack, Greedy | Medium (difficult imo) | https://leetcode.com/problems/remove-duplicate-letters/ | [link](solutions/316.md) | 
 | 42. Trapping Rain Water | Monotonic stack, 2 Pointer | Hard | https://leetcode.com/problems/trapping-rain-water/ | [link](solutions/42.md) | 
 | 581. Shortest Unsorted Continuous Subarray | Monotonic stack, 2 Pointer | Medium | https://leetcode.com/problems/shortest-unsorted-continuous-subarray/ | [link](solutions/581.md) | 
-| 456. 132 Pattern | Monotonic stack, Stack | Medium | https://leetcode.com/problems/132-pattern/ | [link](solutions/132.md) | 
+| 456. 132 Pattern | Monotonic stack, Stack | Medium | https://leetcode.com/problems/132-pattern/ | [link](solutions/456.md) | 
 
 
 
