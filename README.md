@@ -49,7 +49,7 @@
 | 1163. Last Substring in Lexicographical Order | String, Suffix Array | Hard | https://leetcode.com/problems/last-substring-in-lexicographical-order/ | [link](solutions/1163.md) |
 | 376. Wiggle Subsequence | Dynamic Programming, Greedy | Medium | https://leetcode.com/problems/wiggle-subsequence/ | [link](solutions/376.md) | 
 | 315. Remove Duplicate Letters | Monotonic stack, Greedy | Medium (difficult imo) | https://leetcode.com/problems/remove-duplicate-letters/ | [link](solutions/316.md) | 
-
+| 42. Trapping Rain Water | Monotonic stack, 2 Pointer | Hard | https://leetcode.com/problems/trapping-rain-water/ | [link](solutions/42.md) | 
 
 
 
