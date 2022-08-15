@@ -52,7 +52,7 @@
 | 42. Trapping Rain Water | Monotonic stack, 2 Pointer | Hard | https://leetcode.com/problems/trapping-rain-water/ | [link](solutions/42.md) | 
 | 581. Shortest Unsorted Continuous Subarray | Monotonic stack, 2 Pointer | Medium | https://leetcode.com/problems/shortest-unsorted-continuous-subarray/ | [link](solutions/581.md) | 
 | 456. 132 Pattern | Monotonic stack, Stack | Medium | https://leetcode.com/problems/132-pattern/ | [link](solutions/456.md) | 
-
+| 1996. Number of Weak Characters in the Game | Monotonic stack, Stack | Medium | https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/ | [link](solutions/1996.md) | 
 
 
 
