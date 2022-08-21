@@ -56,6 +56,7 @@
 | 1574. Shortest Subarray to be Removed to Make Array Sorted | Monotonic stack, 2 pointers | Medium (difficult imo) | https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/ | [link](solutions/1574.md) | 
 | 633. Sum of Square Numbers | Math, 2 pointers | Medium | https://leetcode.com/problems/sum-of-square-numbers/ | [link](solutions/633.md) | 
 | 189. Rotate Array | Math, 2 pointers | Medium | https://leetcode.com/problems/rotate-array/ | [link](solutions/189.md) | 
+| 480. Sliding Window Median | Heap, Hash Table, Sliding Window | Medium | https://leetcode.com/problems/sliding-window-median/ | [link](solutions/480.md) | 
 
 
 
