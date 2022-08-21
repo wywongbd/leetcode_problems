@@ -57,6 +57,7 @@
 | 633. Sum of Square Numbers | Math, 2 pointers | Medium | https://leetcode.com/problems/sum-of-square-numbers/ | [link](solutions/633.md) | 
 | 189. Rotate Array | Math, 2 pointers | Medium | https://leetcode.com/problems/rotate-array/ | [link](solutions/189.md) | 
 | 480. Sliding Window Median | Heap, Hash Table, Sliding Window | Medium | https://leetcode.com/problems/sliding-window-median/ | [link](solutions/480.md) | 
+| 2233. Maximum Product After K Increments | Heap, Array, Greedy | Medium | https://leetcode.com/problems/maximum-product-after-k-increments/ | [link](solutions/2233.md) | 
 
 
 
