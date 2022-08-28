@@ -59,7 +59,8 @@
 | 480. Sliding Window Median | Heap, Hash Table, Sliding Window | Medium | https://leetcode.com/problems/sliding-window-median/ | [link](solutions/480.md) | 
 | 2233. Maximum Product After K Increments | Heap, Array, Greedy | Medium | https://leetcode.com/problems/maximum-product-after-k-increments/ | [link](solutions/2233.md) | 
 | 2054. Two Best Non-Overlapping Events | Heap, Sorting, DP | Medium | https://leetcode.com/problems/two-best-non-overlapping-events/ | [link](solutions/2054.md) | 
-
+| 1834. Single-Threaded CPU | Array, Sorting, Heap | Medium | https://leetcode.com/problems/single-threaded-cpu/ | [link](solutions/1834.md) | 
+| 1696. Jump Game VI | Array, DP, Heap, Queue | Medium | https://leetcode.com/problems/jump-game-vi/ | [link](solutions/1696.md) | 
 
 
 
